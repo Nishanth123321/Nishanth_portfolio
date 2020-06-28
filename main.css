@@ -9,6 +9,7 @@ header{
 .banner-center{
     height:100vh;
     color:whitesmoke;
+    padding-bottom:50px;
 }
 .banner-image{
     height:60vh;
