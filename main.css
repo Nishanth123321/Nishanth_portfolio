@@ -1,0 +1,57 @@
+header{
+    height:100vh;
+    background:url('nishanth.png') fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-center{
+    height:100vh;
+    color:whitesmoke;
+}
+.banner-image{
+    height:60vh;
+    width:40vw;
+}
+.banner-columns{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    font-weight:bold;
+    font-size:32px;
+}
+
+#quality{
+    
+    background:#2d3142;
+}
+
+#contact{
+   
+    background: url('contact_image.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+
+}
+
+.contact-center{
+   
+    min-height:35vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+}
+
+.project-center{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    
+}
+
