@@ -54,4 +54,10 @@ header{
     justify-content:center;
     
 }
-
+#social{
+    height:30vh;
+    background-color: teal;
+}
+#font{
+    font-size:100px;
+}
