@@ -57,6 +57,7 @@ header{
 #social{
     min-height:30vh;
     background-color: teal;
+    overflow:hidden;
 }
 #font{
     font-size:100px;
