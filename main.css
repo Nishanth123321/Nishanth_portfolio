@@ -15,6 +15,44 @@ header{
     height:60vh;
     width:40vw;
 }
+
+.whites{
+    color:whitesmoke;
+}
+#achievements{
+    background:#2d3142;
+
+}
+.title{
+    margin:20px 0;
+
+}
+
+.title-underline{
+
+    width:150px;
+    border: 3px solid #f15025;
+    margin: 0px auto 10px auto;
+
+}
+#achievements .pic{
+
+    height:600px;
+    background:url('kelly-sikkema-Rr1BnoLVsNM-unsplash.jpg') fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-bottom:600px solid transparent;
+    border-left:100px solid #2d3142;
+
+
+}
+#achievements .box{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
 .banner-columns{
     display:flex;
     flex-direction: column;
